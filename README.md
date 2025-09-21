@@ -1,9 +1,10 @@
 # 🧠 VR-Based Binocular Rivalry (BR) Setup
 
 This repository contains all the resources needed to build and test a **VR-based binocular rivalry display**, adapted from a commercially available headset using a **4K HDMI screen** and **3D-printed mounts**. The setup is optimized for experiments involving **binocular rivalry** (BR), with support for **PsychoPy** stimuli presentation.
+![VR Setup Preview](image/br_setup.jpeg)
 
 > 🛠️ This is a DIY research tool. Use at your own risk and only in appropriate research contexts.
-![VR Setup Preview](images/br_setup.jpeg)
+
 ---
 
 ## 📦 Features
