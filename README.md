@@ -37,7 +37,7 @@ This repository contains all the resources needed to build and test a **VR-based
 - `VRMAX.stl`: 3D model for head-mounting screen
 - `vrpivot.stl`: 3D model for alignment and pivot support
 - `psychopy_BR_test/`: Example PsychoPy script to test left/right field presentation
-- `Schermata 2022-02-21 alle 19.57.37.jpeg`: Assembly preview image
+- `br_setup.png`: Assembly preview image
 
 ---
 
@@ -74,7 +74,7 @@ This is a **research prototype**, not a commercial device. Ensure:
 
 For questions or collaboration:
 
-- **Thomas Quettier** — [thomas.quettier2@unibo.it](mailto:thomas.quettier2@unibo.it)
+- **Thomas Quettier** — [research@tcjq.eu](mailto:research@tcjq.eu)
 
 ---
 
@@ -93,6 +93,5 @@ Developed within a behavioral neuroscience context to support open, low-cost, an
 ## 🔗 Related Projects
 
 - [PsychoPy](https://www.psychopy.org/)
-- [BestView S5](https://www.amazon.it/dp/B07PLDDZBY)
 
 ---
